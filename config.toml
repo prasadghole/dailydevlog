@@ -1,0 +1,4 @@
+baseURL = "prasadghole.github.io"
+languageCode = "en-us"
+title = "My daily devlopment logs"
+theme = "vanilla-bootstrap-hugo-theme"
